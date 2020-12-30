@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Hello
-
 My name is Clarence. I travel around the world. 
 My mission is to encourage and thank life forms who are defending our world.
 If you would like me to thank a life form, please send your life form's email to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>

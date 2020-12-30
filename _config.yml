@@ -20,16 +20,9 @@
 
 title: Clarence The Classy Cat
 email: clarencetheclassycat@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  My fellow cats and I power-up humans.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  clarencetheclassycat
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
