@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was conceived by a combination of
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+ - A [post][origin] I found at work.
+ - The alliteration of Clarence and Classy
+ - I used to write anonymous thank you notes to students as Hogwarts, the Shadar,
+  and teachers as Charles Babbage.
+ - A friend and I serendipitously met the real Clarence, and the friend was sad to be moving away from their home.
+ - The need to make lifeforms smile
+ 
+ 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[origin]: https://stackoverflow.com/questions/15215457/standardize-data-columns-in-r/15215483#15215483
